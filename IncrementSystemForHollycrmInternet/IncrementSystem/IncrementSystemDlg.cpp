@@ -550,7 +550,7 @@ void CIncrementSystemDlg::OnPopupExit()
 
 	CDHtmlDialog::OnCancel();
 
-	ExitProcess(0);	//20160729 郝爽 关闭整个程序
+	ExitProcess(0);	//20160729 郝爽 关闭整个程序进程
 }
 
 BOOL CIncrementSystemDlg::OnCopyData(CWnd* pWnd, COPYDATASTRUCT* pCopyDataStruct)
