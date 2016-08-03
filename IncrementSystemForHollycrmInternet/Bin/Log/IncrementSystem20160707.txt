@@ -1,0 +1,489 @@
+[10:19:39:281 IncrementSystemDlg.cpp(0143)] ***************************************************************************
+[10:19:39:287 IncrementSystemDlg.cpp(0144)] General edition
+[10:19:39:291 IncrementSystemDlg.cpp(1153)] [ IncrementSystem.exe version = ;last write time =  ]
+[10:19:39:295 IncrementSystemDlg.cpp(1153)] [ Update.exe version = ;last write time =  ]
+[10:19:39:299 IncrementSystemDlg.cpp(1153)] [ TelEscrow.dll version = ;last write time =  ]
+[10:19:39:304 IncrementSystemDlg.cpp(0148)] ***************************************************************************
+[10:19:39:386 IncrementSystemDlg.cpp(0809)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,0734812369CA9EC863C53768DA7A31E0.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[10:19:39:421 IncrementSystemDlg.cpp(0567)] The data from clipboard will be ignored when the app is starting!
+[10:19:42:431 IncrementSystemDlg.cpp(0821)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=AAC00572,null,null,null,085,1,1,0734812369CA9EC863C53768DA7A31E0.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578&loginFlag=true
+[10:19:42:470 IncrementSystemDlg.cpp(0809)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[10:19:42:924 IncrementSystemDlg.cpp(0821)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[10:19:49:404 IncrementSystemDlg.cpp(1054)] <HTML><HEAD></HEAD>
+<BODY></BODY></HTML>
+[10:19:49:412 IncrementSystemDlg.cpp(1068)] The response is "".
+[10:20:07:597 IncrementSystemDlg.cpp(0078)] Exiting ...
+[10:21:18:528 IncrementSystemDlg.cpp(0143)] ***************************************************************************
+[10:21:18:533 IncrementSystemDlg.cpp(0144)] General edition
+[10:21:18:537 IncrementSystemDlg.cpp(1153)] [ IncrementSystem.exe version = ;last write time =  ]
+[10:21:18:541 IncrementSystemDlg.cpp(1153)] [ Update.exe version = ;last write time =  ]
+[10:21:18:545 IncrementSystemDlg.cpp(1153)] [ TelEscrow.dll version = ;last write time =  ]
+[10:21:18:549 IncrementSystemDlg.cpp(0148)] ***************************************************************************
+[10:21:18:566 IncrementSystemDlg.cpp(0809)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,29F379A939FCFC2B5D668B7EB5C98751.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[10:21:18:574 IncrementSystemDlg.cpp(0567)] The data from clipboard will be ignored when the app is starting!
+[10:21:19:296 IncrementSystemDlg.cpp(0821)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=AAC00572,null,null,null,085,1,1,29F379A939FCFC2B5D668B7EB5C98751.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578&loginFlag=true
+[10:21:19:316 IncrementSystemDlg.cpp(0809)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[10:21:19:378 IncrementSystemDlg.cpp(0821)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[10:23:06:571 IncrementSystemDlg.cpp(0078)] Exiting ...
+[10:23:15:213 IncrementSystemDlg.cpp(0143)] ***************************************************************************
+[10:23:15:217 IncrementSystemDlg.cpp(0144)] General edition
+[10:23:15:222 IncrementSystemDlg.cpp(1153)] [ IncrementSystem.exe version = ;last write time =  ]
+[10:23:15:227 IncrementSystemDlg.cpp(1153)] [ Update.exe version = ;last write time =  ]
+[10:23:15:232 IncrementSystemDlg.cpp(1153)] [ TelEscrow.dll version = ;last write time =  ]
+[10:23:15:236 IncrementSystemDlg.cpp(0148)] ***************************************************************************
+[10:23:15:250 IncrementSystemDlg.cpp(0809)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,37FDB2BADF3231BA94ECFE2F63919A67.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[10:23:15:259 IncrementSystemDlg.cpp(0567)] The data from clipboard will be ignored when the app is starting!
+[10:23:15:689 IncrementSystemDlg.cpp(0821)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=AAC00572,null,null,null,085,1,1,37FDB2BADF3231BA94ECFE2F63919A67.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578&loginFlag=true
+[10:23:15:710 IncrementSystemDlg.cpp(0809)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[10:23:15:768 IncrementSystemDlg.cpp(0821)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[10:28:15:286 IncrementSystemDlg.cpp(1054)] <HTML><HEAD></HEAD>
+<BODY></BODY></HTML>
+[10:28:15:351 IncrementSystemDlg.cpp(1068)] The response is "".
+[10:29:44:018 IncrementSystemDlg.cpp(0572)] The data from clipboard is "".
+[10:29:44:028 IncrementSystemDlg.cpp(0637)] Acquired data = 
+[10:40:22:194 IncrementSystemDlg.cpp(0078)] Exiting ...
+[10:53:09:510 IncrementSystemDlg.cpp(0143)] ***************************************************************************
+[10:53:09:515 IncrementSystemDlg.cpp(0144)] General edition
+[10:53:09:520 IncrementSystemDlg.cpp(1154)] [ IncrementSystem.exe version = ;last write time =  ]
+[10:53:09:524 IncrementSystemDlg.cpp(1154)] [ Update.exe version = ;last write time =  ]
+[10:53:09:529 IncrementSystemDlg.cpp(1154)] [ TelEscrow.dll version = ;last write time =  ]
+[10:53:09:534 IncrementSystemDlg.cpp(0148)] ***************************************************************************
+[10:53:09:548 IncrementSystemDlg.cpp(0810)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,485CDC5FB2F3F5E982CECBF1C9C0390E.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[10:53:09:563 IncrementSystemDlg.cpp(0568)] The data from clipboard will be ignored when the app is starting!
+[10:53:10:247 IncrementSystemDlg.cpp(0822)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=AAC00572,null,null,null,085,1,1,485CDC5FB2F3F5E982CECBF1C9C0390E.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578&loginFlag=true
+[10:53:10:268 IncrementSystemDlg.cpp(0810)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[10:53:10:325 IncrementSystemDlg.cpp(0822)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[10:53:30:277 IncrementSystemDlg.cpp(0078)] Exiting ...
+[10:53:38:872 IncrementSystemDlg.cpp(0143)] ***************************************************************************
+[10:53:38:878 IncrementSystemDlg.cpp(0144)] General edition
+[10:53:38:883 IncrementSystemDlg.cpp(1154)] [ IncrementSystem.exe version = ;last write time =  ]
+[10:53:38:888 IncrementSystemDlg.cpp(1154)] [ Update.exe version = ;last write time =  ]
+[10:53:38:893 IncrementSystemDlg.cpp(1154)] [ TelEscrow.dll version = ;last write time =  ]
+[10:53:38:898 IncrementSystemDlg.cpp(0148)] ***************************************************************************
+[10:53:38:912 IncrementSystemDlg.cpp(0810)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,D095073928C06AF495AE2DF2E21A4519.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[10:53:38:922 IncrementSystemDlg.cpp(0568)] The data from clipboard will be ignored when the app is starting!
+[10:53:39:593 IncrementSystemDlg.cpp(0822)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=AAC00572,null,null,null,085,1,1,D095073928C06AF495AE2DF2E21A4519.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578&loginFlag=true
+[10:53:39:616 IncrementSystemDlg.cpp(0810)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[10:53:39:682 IncrementSystemDlg.cpp(0822)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[10:54:05:933 IncrementSystemDlg.cpp(0078)] Exiting ...
+[10:54:51:232 IncrementSystemDlg.cpp(0143)] ***************************************************************************
+[10:54:51:237 IncrementSystemDlg.cpp(0144)] General edition
+[10:54:51:242 IncrementSystemDlg.cpp(1154)] [ IncrementSystem.exe version = ;last write time =  ]
+[10:54:51:246 IncrementSystemDlg.cpp(1154)] [ Update.exe version = ;last write time =  ]
+[10:54:51:251 IncrementSystemDlg.cpp(1154)] [ TelEscrow.dll version = ;last write time =  ]
+[10:54:51:256 IncrementSystemDlg.cpp(0148)] ***************************************************************************
+[10:54:51:270 IncrementSystemDlg.cpp(0810)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,5C207771B9893DEA1DB95F0CC9A0C440.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[10:54:51:279 IncrementSystemDlg.cpp(0568)] The data from clipboard will be ignored when the app is starting!
+[10:54:51:736 IncrementSystemDlg.cpp(0822)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=AAC00572,null,null,null,085,1,1,5C207771B9893DEA1DB95F0CC9A0C440.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578&loginFlag=true
+[10:54:51:757 IncrementSystemDlg.cpp(0810)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[10:54:51:827 IncrementSystemDlg.cpp(0822)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[10:55:04:808 IncrementSystemDlg.cpp(0078)] Exiting ...
+[11:09:54:654 IncrementSystemDlg.cpp(0143)] ***************************************************************************
+[11:09:54:659 IncrementSystemDlg.cpp(0144)] General edition
+[11:09:54:664 IncrementSystemDlg.cpp(1154)] [ IncrementSystem.exe version = ;last write time =  ]
+[11:09:54:669 IncrementSystemDlg.cpp(1154)] [ Update.exe version = ;last write time =  ]
+[11:09:54:674 IncrementSystemDlg.cpp(1154)] [ TelEscrow.dll version = ;last write time =  ]
+[11:09:54:679 IncrementSystemDlg.cpp(0148)] ***************************************************************************
+[11:09:54:694 IncrementSystemDlg.cpp(0810)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,1CF5D1FC7E321E0EFFB3D68DB691BFDA.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[11:09:54:709 IncrementSystemDlg.cpp(0568)] The data from clipboard will be ignored when the app is starting!
+[11:09:55:161 IncrementSystemDlg.cpp(0822)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=AAC00572,null,null,null,085,1,1,1CF5D1FC7E321E0EFFB3D68DB691BFDA.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578&loginFlag=true
+[11:09:55:181 IncrementSystemDlg.cpp(0810)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[11:09:55:246 IncrementSystemDlg.cpp(0822)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[11:10:32:350 IncrementSystemDlg.cpp(0078)] Exiting ...
+[11:11:19:380 IncrementSystemDlg.cpp(0143)] ***************************************************************************
+[11:11:19:387 IncrementSystemDlg.cpp(0144)] General edition
+[11:11:19:392 IncrementSystemDlg.cpp(1154)] [ IncrementSystem.exe version = ;last write time =  ]
+[11:11:19:398 IncrementSystemDlg.cpp(1154)] [ Update.exe version = ;last write time =  ]
+[11:11:19:403 IncrementSystemDlg.cpp(1154)] [ TelEscrow.dll version = ;last write time =  ]
+[11:11:19:408 IncrementSystemDlg.cpp(0148)] ***************************************************************************
+[11:11:19:425 IncrementSystemDlg.cpp(0810)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,EFE288C26FF6AA05535695FE7B158170.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[11:11:19:434 IncrementSystemDlg.cpp(0568)] The data from clipboard will be ignored when the app is starting!
+[11:11:20:111 IncrementSystemDlg.cpp(0822)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=AAC00572,null,null,null,085,1,1,EFE288C26FF6AA05535695FE7B158170.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578&loginFlag=true
+[11:11:20:133 IncrementSystemDlg.cpp(0810)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[11:11:20:203 IncrementSystemDlg.cpp(0822)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[11:11:44:784 IncrementSystemDlg.cpp(0078)] Exiting ...
+[11:17:09:607 IncrementSystemDlg.cpp(0143)] ***************************************************************************
+[11:17:09:612 IncrementSystemDlg.cpp(0144)] General edition
+[11:17:09:617 IncrementSystemDlg.cpp(1154)] [ IncrementSystem.exe version = ;last write time =  ]
+[11:17:09:622 IncrementSystemDlg.cpp(1154)] [ Update.exe version = ;last write time =  ]
+[11:17:09:627 IncrementSystemDlg.cpp(1154)] [ TelEscrow.dll version = ;last write time =  ]
+[11:17:09:632 IncrementSystemDlg.cpp(0148)] ***************************************************************************
+[11:19:42:184 IncrementSystemDlg.cpp(0810)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,C4D1F6F997C1CD5619917A90E9F34589.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[11:19:42:205 IncrementSystemDlg.cpp(0568)] The data from clipboard will be ignored when the app is starting!
+[11:19:42:905 IncrementSystemDlg.cpp(0822)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=AAC00572,null,null,null,085,1,1,C4D1F6F997C1CD5619917A90E9F34589.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578&loginFlag=true
+[11:19:42:926 IncrementSystemDlg.cpp(0810)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[11:19:42:991 IncrementSystemDlg.cpp(0822)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[11:23:44:382 IncrementSystemDlg.cpp(0078)] Exiting ...
+[11:24:19:154 IncrementSystemDlg.cpp(0143)] ***************************************************************************
+[11:24:19:159 IncrementSystemDlg.cpp(0144)] General edition
+[11:24:19:165 IncrementSystemDlg.cpp(1154)] [ IncrementSystem.exe version = ;last write time =  ]
+[11:24:19:169 IncrementSystemDlg.cpp(1154)] [ Update.exe version = ;last write time =  ]
+[11:24:19:174 IncrementSystemDlg.cpp(1154)] [ TelEscrow.dll version = ;last write time =  ]
+[11:24:19:179 IncrementSystemDlg.cpp(0148)] ***************************************************************************
+[11:24:19:191 IncrementSystemDlg.cpp(0810)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,4455812B13B6A1914135AEB69A99FC39.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[11:24:19:200 IncrementSystemDlg.cpp(0568)] The data from clipboard will be ignored when the app is starting!
+[11:24:19:648 IncrementSystemDlg.cpp(0822)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=AAC00572,null,null,null,085,1,1,4455812B13B6A1914135AEB69A99FC39.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578&loginFlag=true
+[11:24:19:669 IncrementSystemDlg.cpp(0810)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[11:24:19:738 IncrementSystemDlg.cpp(0822)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[11:29:19:227 IncrementSystemDlg.cpp(1055)] <HTML><HEAD></HEAD>
+<BODY></BODY></HTML>
+[11:29:19:237 IncrementSystemDlg.cpp(1069)] The response is "".
+[11:30:57:403 IncrementSystemDlg.cpp(0573)] The data from clipboard is "if(is_shown==0)
+	{ 
+		//::SetWindowPos(this->GetSafeHwnd(),NULL,0,0,0,0,SWP_NOSIZE|SWP_NOMOVE);
+		::SetWindowPos(this->GetSafeHwnd(),NULL,0,0,0,0,SWP_NOSIZE|SWP_NOMOVE);
+	}
+	else
+	{   
+	  	::SetWindowPos(this->GetSafeHwnd(),HWND_TOPMOST,0,0,0,0,SWP_NOSIZE|SWP_NOMOVE); 
+	}	".
+[11:30:57:419 IncrementSystemDlg.cpp(0638)] Acquired data = if(is_shown==0)
+	{ 
+		//::SetWindowPos(this->GetSafeHwnd(),NULL,0,0,0,0,SWP_NOSIZE|SWP_NOMOVE);
+		::SetWindowPos(this->GetSafeHwnd(),NULL,0,0,0,0,SWP_NOSIZE|SWP_NOMOVE);
+	}
+	else
+	{   
+	  	::SetWindowPos(this->GetSafeHwnd(),HWND_TOPMOST,0,0,0,0,SWP_NOSIZE|SWP_NOMOVE); 
+	}	
+[11:30:57:440 IncrementSystemDlg.cpp(0645)] OVE); 
+	}	
+[11:30:57:447 IncrementSystemDlg.cpp(0652)] The acquired data is not a valid phone number.
+[11:31:06:980 IncrementSystemDlg.cpp(0638)] Acquired data = 1
+[11:31:23:871 IncrementSystemDlg.cpp(0573)] The data from clipboard is "HWND_TOPMOST".
+[11:31:23:891 IncrementSystemDlg.cpp(0638)] Acquired data = HWND_TOPMOST
+[11:31:23:903 IncrementSystemDlg.cpp(0645)] WND_TOPMOST
+[11:31:23:910 IncrementSystemDlg.cpp(0652)] The acquired data is not a valid phone number.
+[11:31:33:099 IncrementSystemDlg.cpp(0573)] The data from clipboard is "NULL".
+[11:31:33:140 IncrementSystemDlg.cpp(0638)] Acquired data = NULL
+[11:32:01:146 IncrementSystemDlg.cpp(0638)] Acquired data = 8
+[11:32:08:989 IncrementSystemDlg.cpp(0638)] Acquired data = 8
+[11:32:24:346 IncrementSystemDlg.cpp(0078)] Exiting ...
+[11:32:59:723 IncrementSystemDlg.cpp(0143)] ***************************************************************************
+[11:32:59:731 IncrementSystemDlg.cpp(0144)] General edition
+[11:32:59:738 IncrementSystemDlg.cpp(1164)] [ IncrementSystem.exe version = ;last write time =  ]
+[11:32:59:745 IncrementSystemDlg.cpp(1164)] [ Update.exe version = ;last write time =  ]
+[11:32:59:752 IncrementSystemDlg.cpp(1164)] [ TelEscrow.dll version = ;last write time =  ]
+[11:32:59:759 IncrementSystemDlg.cpp(0148)] ***************************************************************************
+[11:32:59:774 IncrementSystemDlg.cpp(0820)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,846FF66C2CAA54C0A9DB9A9A5D5046C5.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[11:32:59:792 IncrementSystemDlg.cpp(0578)] The data from clipboard will be ignored when the app is starting!
+[11:33:00:225 IncrementSystemDlg.cpp(0832)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=AAC00572,null,null,null,085,1,1,846FF66C2CAA54C0A9DB9A9A5D5046C5.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578&loginFlag=true
+[11:33:00:250 IncrementSystemDlg.cpp(0820)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[11:33:00:321 IncrementSystemDlg.cpp(0832)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[11:33:19:384 IncrementSystemDlg.cpp(0078)] Exiting ...
+[11:33:34:344 IncrementSystemDlg.cpp(0143)] ***************************************************************************
+[11:33:34:353 IncrementSystemDlg.cpp(0144)] General edition
+[11:33:34:361 IncrementSystemDlg.cpp(1164)] [ IncrementSystem.exe version = ;last write time =  ]
+[11:33:34:368 IncrementSystemDlg.cpp(1164)] [ Update.exe version = ;last write time =  ]
+[11:33:34:376 IncrementSystemDlg.cpp(1164)] [ TelEscrow.dll version = ;last write time =  ]
+[11:33:34:383 IncrementSystemDlg.cpp(0148)] ***************************************************************************
+[11:33:34:404 IncrementSystemDlg.cpp(0820)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,5E80B118BEF43C669CC4BAC250FDA286.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[11:33:34:416 IncrementSystemDlg.cpp(0578)] The data from clipboard will be ignored when the app is starting!
+[11:33:34:858 IncrementSystemDlg.cpp(0832)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=AAC00572,null,null,null,085,1,1,5E80B118BEF43C669CC4BAC250FDA286.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578&loginFlag=true
+[11:33:34:881 IncrementSystemDlg.cpp(0820)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[11:33:34:944 IncrementSystemDlg.cpp(0832)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[11:34:02:576 IncrementSystemDlg.cpp(0078)] Exiting ...
+[11:34:14:580 IncrementSystemDlg.cpp(0143)] ***************************************************************************
+[11:34:14:585 IncrementSystemDlg.cpp(0144)] General edition
+[11:34:14:590 IncrementSystemDlg.cpp(1164)] [ IncrementSystem.exe version = ;last write time =  ]
+[11:34:14:595 IncrementSystemDlg.cpp(1164)] [ Update.exe version = ;last write time =  ]
+[11:34:14:602 IncrementSystemDlg.cpp(1164)] [ TelEscrow.dll version = ;last write time =  ]
+[11:34:14:607 IncrementSystemDlg.cpp(0148)] ***************************************************************************
+[11:34:14:623 IncrementSystemDlg.cpp(0820)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,3F2C5A972259ABEF767ADF54169DFAB0.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[11:34:14:632 IncrementSystemDlg.cpp(0578)] The data from clipboard will be ignored when the app is starting!
+[11:34:15:285 IncrementSystemDlg.cpp(0832)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=AAC00572,null,null,null,085,1,1,3F2C5A972259ABEF767ADF54169DFAB0.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578&loginFlag=true
+[11:34:15:306 IncrementSystemDlg.cpp(0820)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[11:34:15:366 IncrementSystemDlg.cpp(0832)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[11:34:43:643 IncrementSystemDlg.cpp(0078)] Exiting ...
+[11:37:25:287 IncrementSystemDlg.cpp(0143)] ***************************************************************************
+[11:37:25:293 IncrementSystemDlg.cpp(0144)] General edition
+[11:37:25:297 IncrementSystemDlg.cpp(1163)] [ IncrementSystem.exe version = ;last write time =  ]
+[11:37:25:303 IncrementSystemDlg.cpp(1163)] [ Update.exe version = ;last write time =  ]
+[11:37:25:308 IncrementSystemDlg.cpp(1163)] [ TelEscrow.dll version = ;last write time =  ]
+[11:37:25:313 IncrementSystemDlg.cpp(0148)] ***************************************************************************
+[11:37:25:326 IncrementSystemDlg.cpp(0819)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,DE865A75E907D75C91993FA6DBA1D84E.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[11:37:25:336 IncrementSystemDlg.cpp(0577)] The data from clipboard will be ignored when the app is starting!
+[11:37:25:788 IncrementSystemDlg.cpp(0831)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=AAC00572,null,null,null,085,1,1,DE865A75E907D75C91993FA6DBA1D84E.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578&loginFlag=true
+[11:37:25:808 IncrementSystemDlg.cpp(0819)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[11:37:25:876 IncrementSystemDlg.cpp(0831)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[11:37:57:173 IncrementSystemDlg.cpp(0078)] Exiting ...
+[11:38:47:237 IncrementSystemDlg.cpp(0143)] ***************************************************************************
+[11:38:47:242 IncrementSystemDlg.cpp(0144)] General edition
+[11:38:47:247 IncrementSystemDlg.cpp(1164)] [ IncrementSystem.exe version = ;last write time =  ]
+[11:38:47:253 IncrementSystemDlg.cpp(1164)] [ Update.exe version = ;last write time =  ]
+[11:38:47:258 IncrementSystemDlg.cpp(1164)] [ TelEscrow.dll version = ;last write time =  ]
+[11:38:47:263 IncrementSystemDlg.cpp(0148)] ***************************************************************************
+[11:38:47:278 IncrementSystemDlg.cpp(0820)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,C812551D18298762A6A24546DD5ADA2D.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[11:38:47:288 IncrementSystemDlg.cpp(0578)] The data from clipboard will be ignored when the app is starting!
+[11:38:47:747 IncrementSystemDlg.cpp(0832)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=AAC00572,null,null,null,085,1,1,C812551D18298762A6A24546DD5ADA2D.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578&loginFlag=true
+[11:38:47:768 IncrementSystemDlg.cpp(0820)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[11:38:47:832 IncrementSystemDlg.cpp(0832)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[11:38:52:676 IncrementSystemDlg.cpp(0078)] Exiting ...
+[11:39:06:711 IncrementSystemDlg.cpp(0143)] ***************************************************************************
+[11:39:06:716 IncrementSystemDlg.cpp(0144)] General edition
+[11:39:06:721 IncrementSystemDlg.cpp(1164)] [ IncrementSystem.exe version = ;last write time =  ]
+[11:39:06:726 IncrementSystemDlg.cpp(1164)] [ Update.exe version = ;last write time =  ]
+[11:39:06:731 IncrementSystemDlg.cpp(1164)] [ TelEscrow.dll version = ;last write time =  ]
+[11:39:06:737 IncrementSystemDlg.cpp(0148)] ***************************************************************************
+[11:41:24:845 IncrementSystemDlg.cpp(0143)] ***************************************************************************
+[11:41:24:850 IncrementSystemDlg.cpp(0144)] General edition
+[11:41:24:855 IncrementSystemDlg.cpp(1164)] [ IncrementSystem.exe version = ;last write time =  ]
+[11:41:24:860 IncrementSystemDlg.cpp(1164)] [ Update.exe version = ;last write time =  ]
+[11:41:24:867 IncrementSystemDlg.cpp(1164)] [ TelEscrow.dll version = ;last write time =  ]
+[11:41:24:873 IncrementSystemDlg.cpp(0148)] ***************************************************************************
+[11:42:55:518 IncrementSystemDlg.cpp(0820)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,2BF7CEA068B26A47C4E2F2AFB057624D.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[11:42:55:530 IncrementSystemDlg.cpp(0578)] The data from clipboard will be ignored when the app is starting!
+[11:42:56:204 IncrementSystemDlg.cpp(0832)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=AAC00572,null,null,null,085,1,1,2BF7CEA068B26A47C4E2F2AFB057624D.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578&loginFlag=true
+[11:42:56:225 IncrementSystemDlg.cpp(0820)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[11:42:56:286 IncrementSystemDlg.cpp(0832)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[11:42:58:857 IncrementSystemDlg.cpp(0078)] Exiting ...
+[11:43:32:612 IncrementSystemDlg.cpp(0143)] ***************************************************************************
+[11:43:32:617 IncrementSystemDlg.cpp(0144)] General edition
+[11:43:32:623 IncrementSystemDlg.cpp(1164)] [ IncrementSystem.exe version = ;last write time =  ]
+[11:43:32:629 IncrementSystemDlg.cpp(1164)] [ Update.exe version = ;last write time =  ]
+[11:43:32:636 IncrementSystemDlg.cpp(1164)] [ TelEscrow.dll version = ;last write time =  ]
+[11:43:32:643 IncrementSystemDlg.cpp(0148)] ***************************************************************************
+[11:47:37:442 IncrementSystemDlg.cpp(0820)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,FE43812722A9583FF4C4A56EE00BFDE9.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[11:47:37:456 IncrementSystemDlg.cpp(0578)] The data from clipboard will be ignored when the app is starting!
+[11:47:37:938 IncrementSystemDlg.cpp(0832)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=AAC00572,null,null,null,085,1,1,FE43812722A9583FF4C4A56EE00BFDE9.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578&loginFlag=true
+[11:47:37:960 IncrementSystemDlg.cpp(0820)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[11:47:38:019 IncrementSystemDlg.cpp(0832)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[11:47:40:343 IncrementSystemDlg.cpp(0078)] Exiting ...
+[11:47:50:999 IncrementSystemDlg.cpp(0143)] ***************************************************************************
+[11:47:51:005 IncrementSystemDlg.cpp(0144)] General edition
+[11:47:51:010 IncrementSystemDlg.cpp(1164)] [ IncrementSystem.exe version = ;last write time =  ]
+[11:47:51:015 IncrementSystemDlg.cpp(1164)] [ Update.exe version = ;last write time =  ]
+[11:47:51:020 IncrementSystemDlg.cpp(1164)] [ TelEscrow.dll version = ;last write time =  ]
+[11:47:51:025 IncrementSystemDlg.cpp(0148)] ***************************************************************************
+[11:49:58:941 IncrementSystemDlg.cpp(0820)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,834301D6065DF89429AD2EFB1A3663E0.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[11:49:58:955 IncrementSystemDlg.cpp(0578)] The data from clipboard will be ignored when the app is starting!
+[11:49:59:690 IncrementSystemDlg.cpp(0832)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=AAC00572,null,null,null,085,1,1,834301D6065DF89429AD2EFB1A3663E0.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578&loginFlag=true
+[11:49:59:712 IncrementSystemDlg.cpp(0820)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[11:49:59:772 IncrementSystemDlg.cpp(0832)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[11:50:10:675 IncrementSystemDlg.cpp(0078)] Exiting ...
+[12:04:17:573 IncrementSystemDlg.cpp(0143)] ***************************************************************************
+[12:04:17:579 IncrementSystemDlg.cpp(0144)] General edition
+[12:04:17:584 IncrementSystemDlg.cpp(1166)] [ IncrementSystem.exe version = ;last write time =  ]
+[12:04:17:589 IncrementSystemDlg.cpp(1166)] [ Update.exe version = ;last write time =  ]
+[12:04:17:593 IncrementSystemDlg.cpp(1166)] [ TelEscrow.dll version = ;last write time =  ]
+[12:04:17:598 IncrementSystemDlg.cpp(0148)] ***************************************************************************
+[12:04:17:611 IncrementSystemDlg.cpp(0822)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,B8D0CDA345B1B5BC02E0D33539E6D500.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[12:04:17:625 IncrementSystemDlg.cpp(0580)] The data from clipboard will be ignored when the app is starting!
+[12:04:18:071 IncrementSystemDlg.cpp(0834)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=AAC00572,null,null,null,085,1,1,B8D0CDA345B1B5BC02E0D33539E6D500.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578&loginFlag=true
+[12:04:18:091 IncrementSystemDlg.cpp(0822)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[12:04:18:151 IncrementSystemDlg.cpp(0834)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[12:05:11:034 IncrementSystemDlg.cpp(0585)] The data from clipboard is "if(is_shown==0)".
+[12:05:11:045 IncrementSystemDlg.cpp(0650)] Acquired data = if(is_shown==0)
+[12:05:11:056 IncrementSystemDlg.cpp(0657)] s_shown==0)
+[12:05:11:063 IncrementSystemDlg.cpp(0664)] The acquired data is not a valid phone number.
+[12:05:15:785 IncrementSystemDlg.cpp(0650)] Acquired data = 1
+[12:05:20:801 IncrementSystemDlg.cpp(0078)] Exiting ...
+[12:05:48:499 IncrementSystemDlg.cpp(0143)] ***************************************************************************
+[12:05:48:505 IncrementSystemDlg.cpp(0144)] General edition
+[12:05:48:510 IncrementSystemDlg.cpp(1166)] [ IncrementSystem.exe version = ;last write time =  ]
+[12:05:48:515 IncrementSystemDlg.cpp(1166)] [ Update.exe version = ;last write time =  ]
+[12:05:48:520 IncrementSystemDlg.cpp(1166)] [ TelEscrow.dll version = ;last write time =  ]
+[12:05:48:525 IncrementSystemDlg.cpp(0148)] ***************************************************************************
+[12:05:48:540 IncrementSystemDlg.cpp(0822)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,0FC30FB6517E506D3A01953EAFBB81F6.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[12:05:48:549 IncrementSystemDlg.cpp(0580)] The data from clipboard will be ignored when the app is starting!
+[12:05:48:990 IncrementSystemDlg.cpp(0834)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=AAC00572,null,null,null,085,1,1,0FC30FB6517E506D3A01953EAFBB81F6.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578&loginFlag=true
+[12:05:49:010 IncrementSystemDlg.cpp(0822)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[12:05:49:068 IncrementSystemDlg.cpp(0834)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[12:07:29:595 IncrementSystemDlg.cpp(0078)] Exiting ...
+[12:08:44:819 IncrementSystemDlg.cpp(0143)] ***************************************************************************
+[12:08:44:824 IncrementSystemDlg.cpp(0144)] General edition
+[12:08:44:829 IncrementSystemDlg.cpp(1166)] [ IncrementSystem.exe version = ;last write time =  ]
+[12:08:44:834 IncrementSystemDlg.cpp(1166)] [ Update.exe version = ;last write time =  ]
+[12:08:44:838 IncrementSystemDlg.cpp(1166)] [ TelEscrow.dll version = ;last write time =  ]
+[12:08:44:843 IncrementSystemDlg.cpp(0148)] ***************************************************************************
+[12:08:44:855 IncrementSystemDlg.cpp(0822)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,9989DC8DC658F3B1AA6EA59673EA2478.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[12:08:44:864 IncrementSystemDlg.cpp(0580)] The data from clipboard will be ignored when the app is starting!
+[12:08:45:529 IncrementSystemDlg.cpp(0834)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=AAC00572,null,null,null,085,1,1,9989DC8DC658F3B1AA6EA59673EA2478.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578&loginFlag=true
+[12:08:45:550 IncrementSystemDlg.cpp(0822)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[12:08:45:611 IncrementSystemDlg.cpp(0834)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[12:09:02:916 IncrementSystemDlg.cpp(0078)] Exiting ...
+[14:33:06:808 IncrementSystemDlg.cpp(0143)] ***************************************************************************
+[14:33:06:814 IncrementSystemDlg.cpp(0144)] General edition
+[14:33:06:821 IncrementSystemDlg.cpp(1167)] [ IncrementSystem.exe version = ;last write time =  ]
+[14:33:06:828 IncrementSystemDlg.cpp(1167)] [ Update.exe version = ;last write time =  ]
+[14:33:06:834 IncrementSystemDlg.cpp(1167)] [ TelEscrow.dll version = ;last write time =  ]
+[14:33:06:839 IncrementSystemDlg.cpp(0148)] ***************************************************************************
+[14:33:06:857 IncrementSystemDlg.cpp(0823)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,4D32AC8CF0216B5FE6A010E411D00FDA.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[14:33:06:873 IncrementSystemDlg.cpp(0581)] The data from clipboard will be ignored when the app is starting!
+[14:33:07:355 IncrementSystemDlg.cpp(0835)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=AAC00572,null,null,null,085,1,1,4D32AC8CF0216B5FE6A010E411D00FDA.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578&loginFlag=true
+[14:33:07:377 IncrementSystemDlg.cpp(0823)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[14:33:07:439 IncrementSystemDlg.cpp(0835)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[14:33:30:489 IncrementSystemDlg.cpp(0078)] Exiting ...
+[14:52:57:465 IncrementSystemDlg.cpp(0143)] ***************************************************************************
+[14:52:57:507 IncrementSystemDlg.cpp(0144)] General edition
+[14:52:57:512 IncrementSystemDlg.cpp(1165)] [ IncrementSystem.exe version = ;last write time =  ]
+[14:52:57:517 IncrementSystemDlg.cpp(1165)] [ Update.exe version = ;last write time =  ]
+[14:52:57:522 IncrementSystemDlg.cpp(1165)] [ TelEscrow.dll version = ;last write time =  ]
+[14:52:57:527 IncrementSystemDlg.cpp(0148)] ***************************************************************************
+[14:52:57:540 IncrementSystemDlg.cpp(0821)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,BD27CD503E4CD9ADC4E3D132AD1BA176.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[14:52:58:030 IncrementSystemDlg.cpp(0833)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=AAC00572,null,null,null,085,1,1,BD27CD503E4CD9ADC4E3D132AD1BA176.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578&loginFlag=true
+[14:52:58:052 IncrementSystemDlg.cpp(0821)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[14:52:58:121 IncrementSystemDlg.cpp(0833)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[14:53:16:010 IncrementSystemDlg.cpp(0078)] Exiting ...
+[14:53:33:066 IncrementSystemDlg.cpp(0143)] ***************************************************************************
+[14:53:33:072 IncrementSystemDlg.cpp(0144)] General edition
+[14:53:33:077 IncrementSystemDlg.cpp(1165)] [ IncrementSystem.exe version = ;last write time =  ]
+[14:53:33:082 IncrementSystemDlg.cpp(1165)] [ Update.exe version = ;last write time =  ]
+[14:53:33:087 IncrementSystemDlg.cpp(1165)] [ TelEscrow.dll version = ;last write time =  ]
+[14:53:33:093 IncrementSystemDlg.cpp(0148)] ***************************************************************************
+[14:53:33:107 IncrementSystemDlg.cpp(0821)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,94D971432CE471E4C2DBE9669B81866E.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[14:53:33:116 IncrementSystemDlg.cpp(0579)] The data from clipboard will be ignored when the app is starting!
+[14:53:33:566 IncrementSystemDlg.cpp(0833)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=AAC00572,null,null,null,085,1,1,94D971432CE471E4C2DBE9669B81866E.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578&loginFlag=true
+[14:53:33:589 IncrementSystemDlg.cpp(0821)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[14:53:33:657 IncrementSystemDlg.cpp(0833)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[14:54:27:423 IncrementSystemDlg.cpp(0078)] Exiting ...
+[15:07:45:171 IncrementSystemDlg.cpp(0143)] ***************************************************************************
+[15:07:45:177 IncrementSystemDlg.cpp(0144)] General edition
+[15:07:45:183 IncrementSystemDlg.cpp(1164)] [ IncrementSystem.exe version = ;last write time =  ]
+[15:07:45:188 IncrementSystemDlg.cpp(1164)] [ Update.exe version = ;last write time =  ]
+[15:07:45:193 IncrementSystemDlg.cpp(1164)] [ TelEscrow.dll version = ;last write time =  ]
+[15:07:45:198 IncrementSystemDlg.cpp(0148)] ***************************************************************************
+[15:07:45:213 IncrementSystemDlg.cpp(0820)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,31649D5C08371A893137FF72C735B67C.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[15:07:45:229 IncrementSystemDlg.cpp(0578)] The data from clipboard will be ignored when the app is starting!
+[15:07:45:944 IncrementSystemDlg.cpp(0832)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=AAC00572,null,null,null,085,1,1,31649D5C08371A893137FF72C735B67C.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578&loginFlag=true
+[15:07:45:967 IncrementSystemDlg.cpp(0820)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[15:07:46:030 IncrementSystemDlg.cpp(0832)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[15:13:26:113 IncrementSystemDlg.cpp(0143)] ***************************************************************************
+[15:13:26:118 IncrementSystemDlg.cpp(0144)] General edition
+[15:13:26:123 IncrementSystemDlg.cpp(1205)] [ IncrementSystem.exe version = ;last write time =  ]
+[15:13:26:128 IncrementSystemDlg.cpp(1205)] [ Update.exe version = ;last write time =  ]
+[15:13:26:133 IncrementSystemDlg.cpp(1205)] [ TelEscrow.dll version = ;last write time =  ]
+[15:13:26:139 IncrementSystemDlg.cpp(0148)] ***************************************************************************
+[15:13:26:152 IncrementSystemDlg.cpp(0820)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,3382D9D904972518EB719D742C11006F.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[15:13:26:166 IncrementSystemDlg.cpp(0578)] The data from clipboard will be ignored when the app is starting!
+[15:13:26:620 IncrementSystemDlg.cpp(0832)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=AAC00572,null,null,null,085,1,1,3382D9D904972518EB719D742C11006F.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578&loginFlag=true
+[15:13:26:642 IncrementSystemDlg.cpp(0820)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[15:13:26:701 IncrementSystemDlg.cpp(0832)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[15:14:36:629 IncrementSystemDlg.cpp(0078)] Exiting ...
+[15:42:05:762 IncrementSystemDlg.cpp(0143)] ***************************************************************************
+[15:42:05:767 IncrementSystemDlg.cpp(0144)] General edition
+[15:42:05:772 IncrementSystemDlg.cpp(1166)] [ IncrementSystem.exe version = ;last write time =  ]
+[15:42:05:777 IncrementSystemDlg.cpp(1166)] [ Update.exe version = ;last write time =  ]
+[15:42:05:782 IncrementSystemDlg.cpp(1166)] [ TelEscrow.dll version = ;last write time =  ]
+[15:42:05:787 IncrementSystemDlg.cpp(0148)] ***************************************************************************
+[15:42:05:800 IncrementSystemDlg.cpp(0819)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,A0F395277A0889DE9DA9BBF9BDD7257C.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[15:42:05:814 IncrementSystemDlg.cpp(0577)] The data from clipboard will be ignored when the app is starting!
+[15:42:06:500 IncrementSystemDlg.cpp(0831)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=AAC00572,null,null,null,085,1,1,A0F395277A0889DE9DA9BBF9BDD7257C.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578&loginFlag=true
+[15:42:06:521 IncrementSystemDlg.cpp(0819)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[15:42:06:603 IncrementSystemDlg.cpp(0831)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[15:42:40:270 IncrementSystemDlg.cpp(0078)] Exiting ...
+[15:56:12:906 incrementsystemdlg.cpp(0143)] ***************************************************************************
+[15:56:12:912 incrementsystemdlg.cpp(0144)] General edition
+[15:56:12:917 incrementsystemdlg.cpp(1166)] [ IncrementSystem.exe version = ;last write time =  ]
+[15:56:12:922 incrementsystemdlg.cpp(1166)] [ Update.exe version = ;last write time =  ]
+[15:56:12:928 incrementsystemdlg.cpp(1166)] [ TelEscrow.dll version = ;last write time =  ]
+[15:56:12:933 incrementsystemdlg.cpp(0148)] ***************************************************************************
+[16:23:58:081 incrementsystemdlg.cpp(0143)] ***************************************************************************
+[16:23:58:087 incrementsystemdlg.cpp(0144)] General edition
+[16:23:58:092 incrementsystemdlg.cpp(1166)] [ IncrementSystem.exe version = ;last write time =  ]
+[16:23:58:097 incrementsystemdlg.cpp(1166)] [ Update.exe version = ;last write time =  ]
+[16:23:58:103 incrementsystemdlg.cpp(1166)] [ TelEscrow.dll version = ;last write time =  ]
+[16:23:58:107 incrementsystemdlg.cpp(0148)] ***************************************************************************
+[16:27:59:129 incrementsystemdlg.cpp(0819)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,6723445D9E5B4F9DB0D80093F400FA37.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[16:27:59:153 incrementsystemdlg.cpp(0577)] The data from clipboard will be ignored when the app is starting!
+[16:27:59:925 incrementsystemdlg.cpp(0831)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=AAC00572,null,null,null,085,1,1,6723445D9E5B4F9DB0D80093F400FA37.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578&loginFlag=true
+[16:27:59:950 incrementsystemdlg.cpp(0819)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[16:28:00:014 incrementsystemdlg.cpp(0831)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[16:29:22:106 incrementsystemdlg.cpp(0078)] Exiting ...
+[16:30:27:556 incrementsystemdlg.cpp(0143)] ***************************************************************************
+[16:30:27:562 incrementsystemdlg.cpp(0144)] General edition
+[16:30:27:567 incrementsystemdlg.cpp(1166)] [ IncrementSystem.exe version = ;last write time =  ]
+[16:30:27:572 incrementsystemdlg.cpp(1166)] [ Update.exe version = ;last write time =  ]
+[16:30:27:578 incrementsystemdlg.cpp(1166)] [ TelEscrow.dll version = ;last write time =  ]
+[16:30:27:583 incrementsystemdlg.cpp(0148)] ***************************************************************************
+[16:34:52:450 incrementsystemdlg.cpp(0819)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,FD58BF2632BE5989C76E200F310ADD41.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[16:35:05:815 incrementsystemdlg.cpp(0577)] The data from clipboard will be ignored when the app is starting!
+[16:40:29:851 incrementsystemdlg.cpp(1067)] <HTML><HEAD></HEAD>
+<BODY></BODY></HTML>
+[16:40:29:857 incrementsystemdlg.cpp(1081)] The response is "".
+[16:40:30:070 incrementsystemdlg.cpp(0831)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=AAC00572,null,null,null,085,1,1,FD58BF2632BE5989C76E200F310ADD41.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578&loginFlag=true
+[16:40:30:096 incrementsystemdlg.cpp(0819)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[16:40:30:162 incrementsystemdlg.cpp(0831)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[16:58:48:311 incrementsystemdlg.cpp(0143)] ***************************************************************************
+[16:58:48:405 incrementsystemdlg.cpp(0144)] General edition
+[16:58:48:411 incrementsystemdlg.cpp(1166)] [ IncrementSystem.exe version = ;last write time =  ]
+[16:58:48:417 incrementsystemdlg.cpp(1166)] [ Update.exe version = ;last write time =  ]
+[16:58:48:423 incrementsystemdlg.cpp(1166)] [ TelEscrow.dll version = ;last write time =  ]
+[16:58:48:428 incrementsystemdlg.cpp(0148)] ***************************************************************************
+[16:58:52:170 incrementsystemdlg.cpp(0819)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,AAE653838BD2EBEEBE23F0D89DC83D6E.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[16:58:52:588 incrementsystemdlg.cpp(0577)] The data from clipboard will be ignored when the app is starting!
+[16:59:15:532 incrementsystemdlg.cpp(0831)] URL Completed = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,AAE653838BD2EBEEBE23F0D89DC83D6E.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[17:00:13:510 incrementsystemdlg.cpp(0819)] URL Navigating = javascript:expandCollapse('infoBlockID', true);
+[17:00:24:171 incrementsystemdlg.cpp(0078)] Exiting ...
+[17:02:48:927 incrementsystemdlg.cpp(0143)] ***************************************************************************
+[17:02:49:040 incrementsystemdlg.cpp(0144)] General edition
+[17:02:49:050 incrementsystemdlg.cpp(1166)] [ IncrementSystem.exe version = ;last write time =  ]
+[17:02:49:062 incrementsystemdlg.cpp(1166)] [ Update.exe version = ;last write time =  ]
+[17:02:49:072 incrementsystemdlg.cpp(1166)] [ TelEscrow.dll version = ;last write time =  ]
+[17:02:49:078 incrementsystemdlg.cpp(0148)] ***************************************************************************
+[17:02:49:119 incrementsystemdlg.cpp(0819)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,020CA5871CF2EA526956481BB524F619.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[17:02:49:130 incrementsystemdlg.cpp(0577)] The data from clipboard will be ignored when the app is starting!
+[17:02:51:853 incrementsystemdlg.cpp(0831)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=AAC00572,null,null,null,085,1,1,020CA5871CF2EA526956481BB524F619.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578&loginFlag=true
+[17:02:51:876 incrementsystemdlg.cpp(0819)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[17:02:52:898 incrementsystemdlg.cpp(0831)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[17:05:00:300 incrementsystemdlg.cpp(0078)] Exiting ...
+[20:03:40:073 incrementsystemdlg.cpp(0143)] ***************************************************************************
+[20:03:40:147 incrementsystemdlg.cpp(0144)] General edition
+[20:03:40:152 incrementsystemdlg.cpp(1166)] [ IncrementSystem.exe version = ;last write time =  ]
+[20:03:40:158 incrementsystemdlg.cpp(1166)] [ Update.exe version = ;last write time =  ]
+[20:03:40:164 incrementsystemdlg.cpp(1166)] [ TelEscrow.dll version = ;last write time =  ]
+[20:03:40:169 incrementsystemdlg.cpp(0148)] ***************************************************************************
+[20:03:40:221 incrementsystemdlg.cpp(0819)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,BA6A4B5AE289D863B146B3A3A0C6F4A6.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[20:03:40:235 incrementsystemdlg.cpp(0577)] The data from clipboard will be ignored when the app is starting!
+[20:03:41:858 incrementsystemdlg.cpp(0831)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=AAC00572,null,null,null,085,1,1,BA6A4B5AE289D863B146B3A3A0C6F4A6.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578&loginFlag=true
+[20:03:41:880 incrementsystemdlg.cpp(0819)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[20:03:42:308 incrementsystemdlg.cpp(0831)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[20:04:08:289 incrementsystemdlg.cpp(0078)] Exiting ...
+[20:05:27:387 incrementsystemdlg.cpp(0143)] ***************************************************************************
+[20:05:27:392 incrementsystemdlg.cpp(0144)] General edition
+[20:05:27:398 incrementsystemdlg.cpp(1166)] [ IncrementSystem.exe version = ;last write time =  ]
+[20:05:27:403 incrementsystemdlg.cpp(1166)] [ Update.exe version = ;last write time =  ]
+[20:05:27:408 incrementsystemdlg.cpp(1166)] [ TelEscrow.dll version = ;last write time =  ]
+[20:05:27:415 incrementsystemdlg.cpp(0148)] ***************************************************************************
+[20:05:27:430 incrementsystemdlg.cpp(0819)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,D27FEA4E39E8B6F946C1488CD30E8803.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[20:05:27:439 incrementsystemdlg.cpp(0577)] The data from clipboard will be ignored when the app is starting!
+[20:05:28:153 incrementsystemdlg.cpp(0831)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=AAC00572,null,null,null,085,1,1,D27FEA4E39E8B6F946C1488CD30E8803.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578&loginFlag=true
+[20:05:28:176 incrementsystemdlg.cpp(0819)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[20:05:28:249 incrementsystemdlg.cpp(0831)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[20:06:26:101 incrementsystemdlg.cpp(0078)] Exiting ...
+[20:07:21:094 incrementsystemdlg.cpp(0143)] ***************************************************************************
+[20:07:21:099 incrementsystemdlg.cpp(0144)] General edition
+[20:07:21:105 incrementsystemdlg.cpp(1166)] [ IncrementSystem.exe version = ;last write time =  ]
+[20:07:21:110 incrementsystemdlg.cpp(1166)] [ Update.exe version = ;last write time =  ]
+[20:07:21:115 incrementsystemdlg.cpp(1166)] [ TelEscrow.dll version = ;last write time =  ]
+[20:07:21:121 incrementsystemdlg.cpp(0148)] ***************************************************************************
+[20:07:21:138 incrementsystemdlg.cpp(0819)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,9AA2A0C8AC9663FA35EF292CD639C20D.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[20:07:21:146 incrementsystemdlg.cpp(0577)] The data from clipboard will be ignored when the app is starting!
+[20:07:21:904 incrementsystemdlg.cpp(0831)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=AAC00572,null,null,null,085,1,1,9AA2A0C8AC9663FA35EF292CD639C20D.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578&loginFlag=true
+[20:07:21:926 incrementsystemdlg.cpp(0819)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[20:07:21:990 incrementsystemdlg.cpp(0831)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[20:07:50:492 incrementsystemdlg.cpp(0078)] Exiting ...
+[20:08:44:793 incrementsystemdlg.cpp(0143)] ***************************************************************************
+[20:08:44:798 incrementsystemdlg.cpp(0144)] General edition
+[20:08:44:804 incrementsystemdlg.cpp(1166)] [ IncrementSystem.exe version = ;last write time =  ]
+[20:08:44:809 incrementsystemdlg.cpp(1166)] [ Update.exe version = ;last write time =  ]
+[20:08:44:814 incrementsystemdlg.cpp(1166)] [ TelEscrow.dll version = ;last write time =  ]
+[20:08:44:819 incrementsystemdlg.cpp(0148)] ***************************************************************************
+[20:08:44:834 incrementsystemdlg.cpp(0819)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,88A8336272682E3FED6CA15BD36C21F4.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[20:08:44:843 incrementsystemdlg.cpp(0577)] The data from clipboard will be ignored when the app is starting!
+[20:08:45:587 incrementsystemdlg.cpp(0831)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=AAC00572,null,null,null,085,1,1,88A8336272682E3FED6CA15BD36C21F4.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578&loginFlag=true
+[20:08:45:609 incrementsystemdlg.cpp(0819)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[20:08:45:676 incrementsystemdlg.cpp(0831)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[20:09:01:279 incrementsystemdlg.cpp(0078)] Exiting ...
+[20:10:04:283 incrementsystemdlg.cpp(0143)] ***************************************************************************
+[20:10:04:289 incrementsystemdlg.cpp(0144)] General edition
+[20:10:04:295 incrementsystemdlg.cpp(1166)] [ IncrementSystem.exe version = ;last write time =  ]
+[20:10:04:300 incrementsystemdlg.cpp(1166)] [ Update.exe version = ;last write time =  ]
+[20:10:04:305 incrementsystemdlg.cpp(1166)] [ TelEscrow.dll version = ;last write time =  ]
+[20:10:04:311 incrementsystemdlg.cpp(0148)] ***************************************************************************
+[20:10:04:330 incrementsystemdlg.cpp(0819)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=AAC00572,null,null,null,085,1,1,2877C1F1E28588EF5BB5034FC67AF0B2.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578
+[20:10:04:340 incrementsystemdlg.cpp(0577)] The data from clipboard will be ignored when the app is starting!
+[20:10:04:821 incrementsystemdlg.cpp(0831)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=AAC00572,null,null,null,085,1,1,2877C1F1E28588EF5BB5034FC67AF0B2.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011033578&loginFlag=true
+[20:10:04:847 incrementsystemdlg.cpp(0819)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[20:10:04:913 incrementsystemdlg.cpp(0831)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[20:10:15:787 incrementsystemdlg.cpp(0078)] Exiting ...

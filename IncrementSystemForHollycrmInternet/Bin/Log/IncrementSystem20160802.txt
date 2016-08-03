@@ -1,0 +1,215 @@
+[10:28:40:086 incrementsystemdlg.cpp(0144)] ***************************************************************************
+[10:28:40:086 incrementsystemdlg.cpp(0145)] General edition
+[10:28:40:086 incrementsystemdlg.cpp(1291)] [ IncrementSystem.exe version = ;last write time =  ]
+[10:28:40:102 incrementsystemdlg.cpp(1291)] [ Update.exe version = ;last write time =  ]
+[10:28:40:102 incrementsystemdlg.cpp(1291)] [ TelEscrow.dll version = ;last write time =  ]
+[10:28:40:102 incrementsystemdlg.cpp(0149)] ***************************************************************************
+[10:28:40:202 incrementsystemdlg.cpp(0936)] URL Navigating = http://111.198.162.4:8080/popup/MatchWebFailService.action?longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:28:40:270 incrementsystemdlg.cpp(0585)] This line is running CIncrementSystemDlg::OnDrawClipboard!
+[10:28:40:270 incrementsystemdlg.cpp(0606)] The data from clipboard will be ignored when the app is starting!
+[10:28:42:959 incrementsystemdlg.cpp(0948)] URL Completed = http://111.198.162.4:8080/popup//web/sales/QueryTelephone.action?longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659&loginFlag=true
+[10:28:43:009 incrementsystemdlg.cpp(0936)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[10:28:43:398 incrementsystemdlg.cpp(0948)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[10:29:17:939 incrementsystemdlg.cpp(0678)] Acquired data = 1
+[10:29:18:223 incrementsystemdlg.cpp(0678)] Acquired data = 18
+[10:29:18:801 incrementsystemdlg.cpp(0678)] Acquired data = 186
+[10:29:19:270 incrementsystemdlg.cpp(0678)] Acquired data = 1863
+[10:29:19:455 incrementsystemdlg.cpp(0678)] Acquired data = 18633
+[10:29:19:823 incrementsystemdlg.cpp(0678)] Acquired data = 186335
+[10:29:20:055 incrementsystemdlg.cpp(0678)] Acquired data = 1863356
+[10:29:20:287 incrementsystemdlg.cpp(0678)] Acquired data = 18633562
+[10:29:20:487 incrementsystemdlg.cpp(0678)] Acquired data = 186335622
+[10:29:20:740 incrementsystemdlg.cpp(0678)] Acquired data = 1863356226
+[10:29:21:055 incrementsystemdlg.cpp(0678)] Acquired data = 18633562268
+[10:29:21:055 incrementsystemdlg.cpp(0685)] 18633562268
+[10:29:33:227 incrementsystemdlg.cpp(0937)] URL Navigating = http://111.198.162.4:8080/popup/web/sales/QueryTelephone!QuerytelType.action?tel=18633562268&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:29:33:358 incrementsystemdlg.cpp(0949)] URL Completed = http://111.198.162.4:8080/popup/web/sales/QueryTelephone!QuerytelType.action?tel=18633562268&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:29:33:358 incrementsystemdlg.cpp(1193)] <HTML><HEAD></HEAD>
+<BODY></BODY></HTML>
+[10:29:33:358 incrementsystemdlg.cpp(1207)] The response is "".
+[10:29:33:374 incrementsystemdlg.cpp(0937)] URL Navigating = http://111.198.162.4:8080/popup/web/sales/QueryTelephone!QueryIfAlert.action?tel=18633562268&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:29:34:728 incrementsystemdlg.cpp(0949)] URL Completed = http://111.198.162.4:8080/popup/web/sales/QueryTelephone!QueryIfAlert.action?tel=18633562268&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:29:34:728 incrementsystemdlg.cpp(1193)] <HTML><HEAD></HEAD>
+<BODY>1</BODY></HTML>
+[10:29:34:744 incrementsystemdlg.cpp(1207)] The response is "1".
+[10:29:34:744 incrementsystemdlg.cpp(0937)] URL Navigating = http://111.198.162.4:8080/popup/web/sales/QueryTelephone.action?tel=18633562268&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:29:35:190 incrementsystemdlg.cpp(0949)] URL Completed = http://111.198.162.4:8080/popup/web/sales/QueryTelephone.action?tel=18633562268&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:29:35:190 incrementsystemdlg.cpp(1005)] PopupFlag = 1
+[10:29:35:206 incrementsystemdlg.cpp(0937)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[10:29:35:275 incrementsystemdlg.cpp(0949)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[10:29:42:831 incrementsystemdlg.cpp(0678)] Acquired data = 1
+[10:29:43:062 incrementsystemdlg.cpp(0678)] Acquired data = 18
+[10:29:43:377 incrementsystemdlg.cpp(0678)] Acquired data = 186
+[10:29:44:108 incrementsystemdlg.cpp(0678)] Acquired data = 1863
+[10:29:44:309 incrementsystemdlg.cpp(0678)] Acquired data = 18633
+[10:29:44:509 incrementsystemdlg.cpp(0678)] Acquired data = 186335
+[10:29:44:730 incrementsystemdlg.cpp(0678)] Acquired data = 1863356
+[10:29:44:908 incrementsystemdlg.cpp(0678)] Acquired data = 18633562
+[10:29:45:093 incrementsystemdlg.cpp(0678)] Acquired data = 186335622
+[10:29:45:308 incrementsystemdlg.cpp(0678)] Acquired data = 1863356226
+[10:29:45:645 incrementsystemdlg.cpp(0678)] Acquired data = 18633562268
+[10:29:45:661 incrementsystemdlg.cpp(0685)] 18633562268
+[10:29:49:878 incrementsystemdlg.cpp(0678)] Acquired data = 18633562261
+[10:29:49:893 incrementsystemdlg.cpp(0685)] 18633562261
+[10:29:49:909 incrementsystemdlg.cpp(0802)] Removes all the overtime elements ...
+[10:29:49:909 incrementsystemdlg.cpp(0937)] URL Navigating = http://111.198.162.4:8080/popup/web/sales/QueryTelephone!QuerytelType.action?tel=18633562261&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:29:50:078 incrementsystemdlg.cpp(0949)] URL Completed = http://111.198.162.4:8080/popup/web/sales/QueryTelephone!QuerytelType.action?tel=18633562261&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:29:50:093 incrementsystemdlg.cpp(1193)] <HTML><HEAD></HEAD>
+<BODY></BODY></HTML>
+[10:29:50:093 incrementsystemdlg.cpp(1207)] The response is "".
+[10:29:50:109 incrementsystemdlg.cpp(0937)] URL Navigating = http://111.198.162.4:8080/popup/web/sales/QueryTelephone!QueryIfAlert.action?tel=18633562261&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:29:51:409 incrementsystemdlg.cpp(0949)] URL Completed = http://111.198.162.4:8080/popup/web/sales/QueryTelephone!QueryIfAlert.action?tel=18633562261&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:29:51:426 incrementsystemdlg.cpp(1193)] <HTML><HEAD></HEAD>
+<BODY>1</BODY></HTML>
+[10:29:51:430 incrementsystemdlg.cpp(1207)] The response is "1".
+[10:29:51:430 incrementsystemdlg.cpp(0937)] URL Navigating = http://111.198.162.4:8080/popup/web/sales/QueryTelephone.action?tel=18633562261&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:29:51:831 incrementsystemdlg.cpp(0949)] URL Completed = http://111.198.162.4:8080/popup/web/sales/QueryTelephone.action?tel=18633562261&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:29:51:831 incrementsystemdlg.cpp(1005)] PopupFlag = 1
+[10:29:51:862 incrementsystemdlg.cpp(0937)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[10:29:51:909 incrementsystemdlg.cpp(0949)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[10:30:25:749 incrementsystemdlg.cpp(0678)] Acquired data = 1
+[10:30:25:896 incrementsystemdlg.cpp(0678)] Acquired data = 18
+[10:30:26:234 incrementsystemdlg.cpp(0678)] Acquired data = 186
+[10:30:26:880 incrementsystemdlg.cpp(0678)] Acquired data = 1863
+[10:30:27:065 incrementsystemdlg.cpp(0678)] Acquired data = 18633
+[10:30:27:313 incrementsystemdlg.cpp(0678)] Acquired data = 186335
+[10:30:27:534 incrementsystemdlg.cpp(0678)] Acquired data = 1863356
+[10:30:27:835 incrementsystemdlg.cpp(0678)] Acquired data = 18633562
+[10:30:28:035 incrementsystemdlg.cpp(0678)] Acquired data = 186335622
+[10:30:28:382 incrementsystemdlg.cpp(0678)] Acquired data = 1863356226
+[10:30:28:882 incrementsystemdlg.cpp(0678)] Acquired data = 18633562268
+[10:30:28:882 incrementsystemdlg.cpp(0685)] 18633562268
+[10:30:38:417 incrementsystemdlg.cpp(0678)] Acquired data = 18633562261
+[10:30:38:434 incrementsystemdlg.cpp(0685)] 18633562261
+[10:30:38:439 incrementsystemdlg.cpp(0802)] Removes all the overtime elements ...
+[10:30:38:455 incrementsystemdlg.cpp(0937)] URL Navigating = http://111.198.162.4:8080/popup/web/sales/QueryTelephone!QuerytelType.action?tel=18633562261&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:30:38:601 incrementsystemdlg.cpp(0949)] URL Completed = http://111.198.162.4:8080/popup/web/sales/QueryTelephone!QuerytelType.action?tel=18633562261&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:30:38:601 incrementsystemdlg.cpp(1193)] <HTML><HEAD></HEAD>
+<BODY></BODY></HTML>
+[10:30:38:617 incrementsystemdlg.cpp(1207)] The response is "".
+[10:30:38:617 incrementsystemdlg.cpp(0678)] Acquired data = 8
+[10:30:38:635 incrementsystemdlg.cpp(0937)] URL Navigating = http://111.198.162.4:8080/popup/web/sales/QueryTelephone!QueryIfAlert.action?tel=18633562261&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:30:38:839 incrementsystemdlg.cpp(0949)] URL Completed = http://111.198.162.4:8080/popup/web/sales/QueryTelephone!QueryIfAlert.action?tel=18633562261&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:30:38:855 incrementsystemdlg.cpp(1193)] <HTML><HEAD></HEAD>
+<BODY>1</BODY></HTML>
+[10:30:38:855 incrementsystemdlg.cpp(1207)] The response is "1".
+[10:30:38:870 incrementsystemdlg.cpp(0678)] Acquired data = 86
+[10:30:38:886 incrementsystemdlg.cpp(0937)] URL Navigating = http://111.198.162.4:8080/popup/web/sales/QueryTelephone.action?tel=18633562261&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:30:39:287 incrementsystemdlg.cpp(0949)] URL Completed = http://111.198.162.4:8080/popup/web/sales/QueryTelephone.action?tel=18633562261&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:30:39:287 incrementsystemdlg.cpp(1005)] PopupFlag = 1
+[10:30:39:318 incrementsystemdlg.cpp(0937)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[10:30:39:371 incrementsystemdlg.cpp(0949)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[10:30:39:418 incrementsystemdlg.cpp(0678)] Acquired data = 863
+[10:30:39:640 incrementsystemdlg.cpp(0678)] Acquired data = 8633
+[10:30:40:019 incrementsystemdlg.cpp(0678)] Acquired data = 86335
+[10:30:48:624 incrementsystemdlg.cpp(0678)] Acquired data = 81
+[10:30:49:193 incrementsystemdlg.cpp(0678)] Acquired data = 818
+[10:30:49:545 incrementsystemdlg.cpp(0678)] Acquired data = 8186
+[10:30:50:142 incrementsystemdlg.cpp(0678)] Acquired data = 81863
+[10:30:50:307 incrementsystemdlg.cpp(0678)] Acquired data = 818633
+[10:30:50:507 incrementsystemdlg.cpp(0678)] Acquired data = 8186335
+[10:30:50:743 incrementsystemdlg.cpp(0678)] Acquired data = 81863356
+[10:30:50:976 incrementsystemdlg.cpp(0678)] Acquired data = 818633562
+[10:30:51:192 incrementsystemdlg.cpp(0678)] Acquired data = 8186335622
+[10:30:51:376 incrementsystemdlg.cpp(0678)] Acquired data = 81863356226
+[10:30:51:376 incrementsystemdlg.cpp(0685)] 81863356226
+[10:30:51:392 incrementsystemdlg.cpp(0703)] The acquired data is not a valid china unicom phone number.
+[10:30:51:692 incrementsystemdlg.cpp(0678)] Acquired data = 818633562268
+[10:30:51:708 incrementsystemdlg.cpp(0685)] 18633562268
+[10:30:51:723 incrementsystemdlg.cpp(0802)] Removes all the overtime elements ...
+[10:30:51:739 incrementsystemdlg.cpp(0937)] URL Navigating = http://111.198.162.4:8080/popup/web/sales/QueryTelephone!QuerytelType.action?tel=18633562268&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:30:51:946 incrementsystemdlg.cpp(0949)] URL Completed = http://111.198.162.4:8080/popup/web/sales/QueryTelephone!QuerytelType.action?tel=18633562268&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:30:51:992 incrementsystemdlg.cpp(1193)] <HTML><HEAD></HEAD>
+<BODY></BODY></HTML>
+[10:30:51:992 incrementsystemdlg.cpp(1207)] The response is "".
+[10:30:51:992 incrementsystemdlg.cpp(0937)] URL Navigating = http://111.198.162.4:8080/popup/web/sales/QueryTelephone!QueryIfAlert.action?tel=18633562268&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:30:53:276 incrementsystemdlg.cpp(0949)] URL Completed = http://111.198.162.4:8080/popup/web/sales/QueryTelephone!QueryIfAlert.action?tel=18633562268&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:30:53:291 incrementsystemdlg.cpp(1193)] <HTML><HEAD></HEAD>
+<BODY>1</BODY></HTML>
+[10:30:53:307 incrementsystemdlg.cpp(1207)] The response is "1".
+[10:30:53:307 incrementsystemdlg.cpp(0937)] URL Navigating = http://111.198.162.4:8080/popup/web/sales/QueryTelephone.action?tel=18633562268&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:30:53:692 incrementsystemdlg.cpp(0949)] URL Completed = http://111.198.162.4:8080/popup/web/sales/QueryTelephone.action?tel=18633562268&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:30:53:708 incrementsystemdlg.cpp(1005)] PopupFlag = 1
+[10:30:53:723 incrementsystemdlg.cpp(0937)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[10:30:53:777 incrementsystemdlg.cpp(0949)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[10:30:56:628 incrementsystemdlg.cpp(0678)] Acquired data = 1
+[10:30:57:049 incrementsystemdlg.cpp(0678)] Acquired data = 18
+[10:30:57:449 incrementsystemdlg.cpp(0678)] Acquired data = 186
+[10:30:58:112 incrementsystemdlg.cpp(0678)] Acquired data = 1863
+[10:30:58:296 incrementsystemdlg.cpp(0678)] Acquired data = 18633
+[10:30:58:527 incrementsystemdlg.cpp(0678)] Acquired data = 186335
+[10:30:58:748 incrementsystemdlg.cpp(0678)] Acquired data = 1863356
+[10:30:58:949 incrementsystemdlg.cpp(0678)] Acquired data = 18633562
+[10:30:59:149 incrementsystemdlg.cpp(0678)] Acquired data = 186335622
+[10:30:59:343 incrementsystemdlg.cpp(0678)] Acquired data = 1863356226
+[10:30:59:681 incrementsystemdlg.cpp(0678)] Acquired data = 18633562268
+[10:30:59:681 incrementsystemdlg.cpp(0685)] 18633562268
+[10:31:06:998 incrementsystemdlg.cpp(0678)] Acquired data = 18633562261
+[10:31:07:013 incrementsystemdlg.cpp(0685)] 18633562261
+[10:32:11:785 incrementsystemdlg.cpp(0678)] Acquired data = 18633562261
+[10:32:11:785 incrementsystemdlg.cpp(0685)] 18633562261
+[10:32:11:801 incrementsystemdlg.cpp(0802)] Removes all the overtime elements ...
+[10:32:11:816 incrementsystemdlg.cpp(0937)] URL Navigating = http://111.198.162.4:8080/popup/web/sales/QueryTelephone!QuerytelType.action?tel=18633562261&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:32:11:885 incrementsystemdlg.cpp(0949)] URL Completed = http://111.198.162.4:8080/popup/web/sales/QueryTelephone!QuerytelType.action?tel=18633562261&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:32:11:885 incrementsystemdlg.cpp(1193)] <HTML><HEAD></HEAD>
+<BODY></BODY></HTML>
+[10:32:11:885 incrementsystemdlg.cpp(1207)] The response is "".
+[10:32:11:901 incrementsystemdlg.cpp(0937)] URL Navigating = http://111.198.162.4:8080/popup/web/sales/QueryTelephone!QueryIfAlert.action?tel=18633562261&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:32:12:100 incrementsystemdlg.cpp(0678)] Acquired data = 8
+[10:32:13:216 incrementsystemdlg.cpp(0949)] URL Completed = http://111.198.162.4:8080/popup/web/sales/QueryTelephone!QueryIfAlert.action?tel=18633562261&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:32:13:216 incrementsystemdlg.cpp(1193)] <HTML><HEAD></HEAD>
+<BODY>1</BODY></HTML>
+[10:32:13:232 incrementsystemdlg.cpp(1207)] The response is "1".
+[10:32:13:247 incrementsystemdlg.cpp(0937)] URL Navigating = http://111.198.162.4:8080/popup/web/sales/QueryTelephone.action?tel=18633562261&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:32:13:617 incrementsystemdlg.cpp(0949)] URL Completed = http://111.198.162.4:8080/popup/web/sales/QueryTelephone.action?tel=18633562261&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:32:13:617 incrementsystemdlg.cpp(1005)] PopupFlag = 1
+[10:32:13:649 incrementsystemdlg.cpp(0937)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[10:32:13:702 incrementsystemdlg.cpp(0949)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[10:32:27:121 incrementsystemdlg.cpp(0678)] Acquired data = 1
+[10:32:27:390 incrementsystemdlg.cpp(0678)] Acquired data = 18
+[10:32:27:837 incrementsystemdlg.cpp(0678)] Acquired data = 186
+[10:32:28:607 incrementsystemdlg.cpp(0678)] Acquired data = 1863
+[10:32:28:806 incrementsystemdlg.cpp(0678)] Acquired data = 18633
+[10:32:29:075 incrementsystemdlg.cpp(0678)] Acquired data = 186335
+[10:32:29:306 incrementsystemdlg.cpp(0678)] Acquired data = 1863356
+[10:32:29:553 incrementsystemdlg.cpp(0678)] Acquired data = 18633562
+[10:32:29:737 incrementsystemdlg.cpp(0678)] Acquired data = 186335622
+[10:32:29:953 incrementsystemdlg.cpp(0678)] Acquired data = 1863356226
+[10:32:30:238 incrementsystemdlg.cpp(0678)] Acquired data = 18633562268
+[10:32:30:253 incrementsystemdlg.cpp(0685)] 18633562268
+[10:32:30:272 incrementsystemdlg.cpp(0802)] Removes all the overtime elements ...
+[10:32:30:276 incrementsystemdlg.cpp(0937)] URL Navigating = http://111.198.162.4:8080/popup/web/sales/QueryTelephone!QuerytelType.action?tel=18633562268&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:32:30:338 incrementsystemdlg.cpp(0949)] URL Completed = http://111.198.162.4:8080/popup/web/sales/QueryTelephone!QuerytelType.action?tel=18633562268&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:32:30:354 incrementsystemdlg.cpp(1193)] <HTML><HEAD></HEAD>
+<BODY></BODY></HTML>
+[10:32:30:354 incrementsystemdlg.cpp(1207)] The response is "".
+[10:32:30:372 incrementsystemdlg.cpp(0937)] URL Navigating = http://111.198.162.4:8080/popup/web/sales/QueryTelephone!QueryIfAlert.action?tel=18633562268&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:32:31:492 incrementsystemdlg.cpp(0949)] URL Completed = http://111.198.162.4:8080/popup/web/sales/QueryTelephone!QueryIfAlert.action?tel=18633562268&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:32:31:508 incrementsystemdlg.cpp(1193)] <HTML><HEAD></HEAD>
+<BODY>1</BODY></HTML>
+[10:32:31:508 incrementsystemdlg.cpp(1207)] The response is "1".
+[10:32:31:523 incrementsystemdlg.cpp(0937)] URL Navigating = http://111.198.162.4:8080/popup/web/sales/QueryTelephone.action?tel=18633562268&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:32:31:893 incrementsystemdlg.cpp(0949)] URL Completed = http://111.198.162.4:8080/popup/web/sales/QueryTelephone.action?tel=18633562268&longinUser=jtTest,null,null,null,-1,1,1,435676B61E20A0923207F97A8CCBC601.workeroaindex2,10.126.0.88,B8AC6F79D3A2,1011224659
+[10:32:31:908 incrementsystemdlg.cpp(1005)] PopupFlag = 1
+[10:32:31:924 incrementsystemdlg.cpp(0937)] URL Navigating = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[10:32:31:977 incrementsystemdlg.cpp(0949)] URL Completed = http://111.198.162.4:8080/popup/resources/tho/My97DatePicker/My97DatePicker.htm
+[10:32:34:739 incrementsystemdlg.cpp(0678)] Acquired data = 1
+[10:32:34:908 incrementsystemdlg.cpp(0678)] Acquired data = 18
+[10:32:35:177 incrementsystemdlg.cpp(0678)] Acquired data = 186
+[10:32:35:576 incrementsystemdlg.cpp(0678)] Acquired data = 1863
+[10:32:35:777 incrementsystemdlg.cpp(0678)] Acquired data = 18633
+[10:32:36:039 incrementsystemdlg.cpp(0678)] Acquired data = 186335
+[10:32:36:254 incrementsystemdlg.cpp(0678)] Acquired data = 1863356
+[10:32:36:507 incrementsystemdlg.cpp(0678)] Acquired data = 18633562
+[10:32:36:707 incrementsystemdlg.cpp(0678)] Acquired data = 186335622
+[10:32:36:908 incrementsystemdlg.cpp(0678)] Acquired data = 1863356226
+[10:32:37:254 incrementsystemdlg.cpp(0678)] Acquired data = 18633562268
+[10:32:37:270 incrementsystemdlg.cpp(0685)] 18633562268
+[10:32:42:539 incrementsystemdlg.cpp(0678)] Acquired data = 18633562261
+[10:32:42:555 incrementsystemdlg.cpp(0685)] 18633562261
+[10:32:44:907 incrementsystemdlg.cpp(0678)] Acquired data = 186335622618
+[10:32:44:923 incrementsystemdlg.cpp(0685)] 86335622618
+[10:32:44:923 incrementsystemdlg.cpp(0703)] The acquired data is not a valid china unicom phone number.
+[10:33:40:277 incrementsystemdlg.cpp(1193)] <HTML><HEAD></HEAD>
+<BODY></BODY></HTML>
+[10:33:40:292 incrementsystemdlg.cpp(1207)] The response is "".

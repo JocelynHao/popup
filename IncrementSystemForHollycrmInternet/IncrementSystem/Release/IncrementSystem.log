@@ -1,0 +1,47 @@
+﻿Build started 2016/7/31 17:24:02.
+     1>Project "E:\助销相关项目文件信息\助销系统交接新\助销系统\助销系统相关文件\助销系统\Codes\IncrementSystemForHollycrmInternet\IncrementSystem\IncrementSystem.vcxproj" on node 2 (rebuild target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\IncrementSystem.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         D:\VS2010\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\IncrementSystem.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\VS2010\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\IncrementSystem.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\..\Public\Class\StaticEx.cpp BONCSocket.cpp explorer.cpp HyperButtonEx.cpp IncrementSystem.cpp IncrementSystemDlg.cpp LogonDlg.cpp PersonalDefineDlg.cpp SystemTray.cpp ViewVerDlg.cpp
+         StaticEx.cpp
+         BONCSocket.cpp
+         explorer.cpp
+         HyperButtonEx.cpp
+         IncrementSystem.cpp
+         IncrementSystemDlg.cpp
+         LogonDlg.cpp
+         PersonalDefineDlg.cpp
+     1>PersonalDefineDlg.cpp(259): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+         SystemTray.cpp
+         ViewVerDlg.cpp
+       ResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\IncrementSystem.res" IncrementSystem.rc 
+       Link:
+         D:\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\助销相关项目文件信息\助销系统交接新\助销系统\助销系统相关文件\助销系统\Codes\IncrementSystemForHollycrmInternet\Bin\IncrementSystem.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Release\IncrementSystem.exe.intermediate.manifest" /MANIFESTUAC:"level='highestAvailable' uiAccess='false'" /DEBUG /PDB:"E:\助销相关项目文件信息\助销系统交接新\助销系统\助销系统相关文件\助销系统\Codes\IncrementSystemForHollycrmInternet\Bin\IncrementSystem.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\助销相关项目文件信息\助销系统交接新\助销系统\助销系统相关文件\助销系统\Codes\IncrementSystemForHollycrmInternet\Bin\IncrementSystem.lib" /MACHINE:X86 Release\IncrementSystem.res
+         Release\StaticEx.obj
+         Release\BONCSocket.obj
+         Release\explorer.obj
+         Release\HyperButtonEx.obj
+         Release\IncrementSystem.obj
+         Release\IncrementSystemDlg.obj
+         Release\LogonDlg.obj
+         Release\PersonalDefineDlg.obj
+         Release\stdafx.obj
+         Release\SystemTray.obj
+         Release\ViewVerDlg.obj
+         Generating code
+         Finished generating code
+         IncrementSystem.vcxproj -> E:\助销相关项目文件信息\助销系统交接新\助销系统\助销系统相关文件\助销系统\Codes\IncrementSystemForHollycrmInternet\Bin\IncrementSystem.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\助销相关项目文件信息\助销系统交接新\助销系统\助销系统相关文件\助销系统\Codes\IncrementSystemForHollycrmInternet\Bin\IncrementSystem.exe;#1" /manifest Release\IncrementSystem.exe.intermediate.manifest D:\VS2010\VC\Include\Manifest\dpiaware.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\IncrementSystem.unsuccessfulbuild".
+         Touching "Release\IncrementSystem.lastbuildstate".
+     1>Done Building Project "E:\助销相关项目文件信息\助销系统交接新\助销系统\助销系统相关文件\助销系统\Codes\IncrementSystemForHollycrmInternet\IncrementSystem\IncrementSystem.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:10.24

@@ -1,0 +1,38 @@
+﻿Build started 2015-11-13 9:56:46.
+     1>Project "D:\Project\助销系统\Codes\IncrementSystemForHeilongjiang\Uninstall\Uninstall.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\Uninstall.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\Uninstall.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\Uninstall.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Uninstall.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Uninstall.cpp
+         Uninstall.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\Uninstall.res" Uninstall.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Uninstall.exe.embed.manifest.res" Debug\Uninstall_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Project\助销系统\Codes\IncrementSystemForHeilongjiang\Debug\Uninstall.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\Uninstall.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Project\助销系统\Codes\IncrementSystemForHeilongjiang\Debug\Uninstall.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Project\助销系统\Codes\IncrementSystemForHeilongjiang\Debug\Uninstall.lib" /MACHINE:X86 Debug\Uninstall.res
+         Debug\Uninstall.exe.embed.manifest.res
+         Debug\stdafx.obj
+         Debug\Uninstall.obj
+       Manifest:
+         Deleting file "Debug\Uninstall.exe.embed.manifest".
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Uninstall.exe.embed.manifest" /manifest Debug\Uninstall.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Uninstall.exe.embed.manifest.res" Debug\Uninstall_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Project\助销系统\Codes\IncrementSystemForHeilongjiang\Debug\Uninstall.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\Uninstall.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Project\助销系统\Codes\IncrementSystemForHeilongjiang\Debug\Uninstall.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Project\助销系统\Codes\IncrementSystemForHeilongjiang\Debug\Uninstall.lib" /MACHINE:X86 Debug\Uninstall.res
+         Debug\Uninstall.exe.embed.manifest.res
+         Debug\stdafx.obj
+         Debug\Uninstall.obj
+         Uninstall.vcxproj -> D:\Project\助销系统\Codes\IncrementSystemForHeilongjiang\Debug\Uninstall.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Uninstall.unsuccessfulbuild".
+         Touching "Debug\Uninstall.lastbuildstate".
+     1>Done Building Project "D:\Project\助销系统\Codes\IncrementSystemForHeilongjiang\Uninstall\Uninstall.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.90

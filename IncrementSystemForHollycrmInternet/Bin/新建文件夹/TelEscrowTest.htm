@@ -1,0 +1,20 @@
+<HTML>
+<HEAD>
+<TITLE>ATL DLL test page for object Escrow</TITLE>
+</HEAD>
+<BODY>
+
+
+<OBJECT ID="Escrow" CLASSID="CLSID:B6F9C783-34D3-4139-A662-7E44E434B7B2"></OBJECT>
+<input type="text" id="phoneNo" value=""/>
+<input type="button" value="通知精细化助销平台客户端" onclick="Notice();" />
+
+<script type="text/javascript">
+    function Notice() {
+        var ocx = document.getElementById('Escrow');
+        ocx.NoticeClientEx('精细化助销平台',document.getElementById('phoneNo').value);
+    }
+</script>
+
+</BODY>
+</HTML>
